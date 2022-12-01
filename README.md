@@ -1,4 +1,4 @@
-:raised_hand: Cześć, nazywam się **Jan M.** i jestem studentem pierwszego roku na kierunku **Informatyka i Systemy Inteligentne**.
+Cześć, nazywam się **Jan M.** i jestem studentem pierwszego roku na kierunku **Informatyka i Systemy Inteligentne**.
 Interesuję się:
 
 - Sportem:
@@ -12,4 +12,13 @@ Interesuję się:
 - Systemami Alarmowymi
 
 Mieszkam na _**Podkarpaciu**_, w powiecie _**brzozowskim**_. Skończyłem *Technikum nr 5 w Krośnie*, posiadam zawód ***Technik Elektronik***
-
+  ..---..
+ /       \
+|         |
+:         ;
+ \  \~/  /
+  `, Y ,'
+   |_|_|
+   |===|
+   |===|
+    \_/
