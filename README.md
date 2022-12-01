@@ -7,12 +7,7 @@ Interesuję się:
   - Piłka ręczna
 
 - Programowaniem
-
 - Elektroniką cyfrową:
-
-  <picture align="top">
-  <img src="images/0018.p1.gif" width="100" title="frog">
-  </picture>
 - Mikroprocesorami
 - Systemami Alarmowymi
 
